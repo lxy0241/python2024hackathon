@@ -38,3 +38,13 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
+
+
+## Team Avocado
+
+Member:
+1. Lim Xing Ying
+2. Goh Ee Theng
+3. Hoh Zhi Qi
+
+URL: https://github.com/lxy0241/python2024hackathon
