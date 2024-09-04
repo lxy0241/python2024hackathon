@@ -127,3 +127,10 @@ URL: https://github.com/diamondex187/pythonhackathon2024
 
 URL:https://github.com/jaz-lynn/pygame.git
 
+## Avacado
+Member:
+1. Lim Xing Ying
+2. Goh Ee Theng
+3. Hoh Zhi QI
+
+URL: https://github.com/lxy0241/pygame.git
